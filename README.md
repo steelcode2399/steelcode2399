@@ -1,6 +1,6 @@
-### Olá, seja bem-vido ao Steel Git
-### A SteelCode é uma comunidade totalmente relacionada a Web.
-### Nosso Stats:
+### 💻💻Olá, seja bem-vido ao nosso perfil.💻💻
+### 💻💻A SteelCode é uma comunidade totalmente relacionada a Web.💻💻
+### 🔖Nosso Stats:🔖
 ![steelcode2399 Github stats](https://github-readme-stats.vercel.app/api?username=steelcode2399&show_icons=true&theme=onedark)
 
 <div style="display: inline_block"><br/>
